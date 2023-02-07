@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArthSales
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning JAVA and AWS
+- 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on development area
 - 📫 How to reach me https://www.linkedin.com/in/arthur-sales-nascimento-629629213/
 
